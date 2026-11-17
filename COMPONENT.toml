@@ -3,7 +3,7 @@ name = "SigmaOS-hyprpicker"
 tier = 2
 stability = "scaffold"
 language = "rust"
-description = "hyprpicker component"
+description = "SigmaOS SigmaOS-hyprpicker component"
 upstream = []
 
 [contract]
